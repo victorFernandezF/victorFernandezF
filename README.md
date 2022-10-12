@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Victor Fernandez</h1>
+<h1 align="center">Hi 👋, WELCOME TO MY GITHUB</h1>
+I'm Victor Fernandez. I'm a multi platform application developer.
+Currently I'm a student at 42 Málaga.
+I like to learn new programming things and improve my skills.
+Here are some of my repositories.
+
 - 🔭 I’m currently working on [42Malaga Cursus](https://github.com/victorFernandezF/42_Malaga.git)
 
 - 🌱 I’m currently learning **c**
