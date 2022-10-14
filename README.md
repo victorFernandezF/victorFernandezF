@@ -26,3 +26,6 @@ I like to learn new programming things and improve my skills.
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=victorFernandezF&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## My 42 Stats
+[![victofer's 42 stats](https://badge42.vercel.app/api/v2/cl98ogis300400gid9dsj6na6/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
