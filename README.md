@@ -29,3 +29,20 @@ I like to learn new programming things and improve my skills.
 
 ## My 42 Stats
 [![victofer's 42 stats](https://badge42.vercel.app/api/v2/cl98ogis300400gid9dsj6na6/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
+
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,vscode,html,css,github,git,c,js,php)](https://skillicons.dev)
+
+## Future Skills
+
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,java,kotlin,react,js,angular,appwrite)](https://skillicons.dev)
+
+## This Repo
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
