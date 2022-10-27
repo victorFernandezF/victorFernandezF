@@ -8,7 +8,7 @@ I like to learn new programming things and improve my skills.
 
 - 🌱 I’m currently learning **c**
 
-- 👨‍💻 All of my projects are available at [https://github.com/victorFernandezF](https://github.com/victorFernandezF)
+- 👨‍💻 All of my available projects are at [https://github.com/victorFernandezF](https://github.com/victorFernandezF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
