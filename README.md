@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, WELCOME TO MY GITHUB</h1>
+<h1 align="center"> :jack_o_lantern: Hi 👋, WELCOME TO MY GITHUB :jack_o_lantern:</h1> 
 <h2>About me</h2>
 I'm Victor Fernandez. I'm a multi platform application developer.
 Currently I'm a student at 42 Málaga.
