@@ -4,7 +4,7 @@ I'm Victor Fernandez. I'm a multi platform application developer.
 Currently I'm a student at 42 Málaga.
 I like to learn new programming things and improve my skills.
 
-- 🔭 I’m currently working on [42Malaga Cursus](https://github.com/victorFernandezF/42_Malaga.git)
+- 🔭 I’m currently working on repo: [42Malaga Cursus](https://github.com/victorFernandezF/42_Malaga.git)
 
 - 🌱 I’m currently learning **c**
 
