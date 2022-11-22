@@ -16,7 +16,7 @@ I like to learn new programming things and improve my skills.
 :email: victorfernandezflores2@gmail.com   
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,vscode,html,css,github,c,js,php, python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,vscode,html,css,github,c,js,php)](https://skillicons.dev)
 
 ## Stats
 
