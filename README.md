@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, WELCOME TO MY GITHUB </h1> 
 <h2>About me</h2>
 I'm Victor Fernandez. I'm a multi platform application developer.
-Currently I'm a student at 42 Málaga.
+Currently I'm a student at 42 Málaga where i'm learning C.
 I like to learn new programming things and improve my skills.
 
-- 🔭 I’m currently working on repo: [42Malaga Cursus](https://github.com/victorFernandezF/42_Malaga.git)
+- 🔭 I’m currently working on repo: [Push_swap_42](https://github.com/victorFernandezF/Push_swap_42.git)
 
 - 🌱 I’m currently learning **c**
 
