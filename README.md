@@ -4,7 +4,7 @@ I'm Victor Fernandez. I'm a multi platform application developer.
 Currently I'm a student at 42 Málaga where i'm learning C.
 I like to learn new programming things and improve my skills.
 
-- 🔭 I’m currently working on repo: [Push_swap_42](https://github.com/victorFernandezF/Push_swap_42.git)
+
 
 - 🌱 I’m currently learning **c**
 
