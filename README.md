@@ -35,19 +35,19 @@ I like to learn new programming things and improve my skills.
 <details>
   <summary>42 PROJECTS</summary>
   <br>
-    ◉ <a href="https://github.com/victorFernandezF/Libft_42">LIBFT</a>
-    ◉ <a href="https://github.com/victorFernandezF/42_Malaga/tree/main/CURSUS/Common_Core/printf">FT_PRINTF</a>
-    ◉ <a href="https://github.com/victorFernandezF/42_Malaga/tree/main/CURSUS/Common_Core/get_next_line">GET NEXT LINE</a>
-    ◉ <a href="https://github.com/victorFernandezF/Minitalk_42">MINITALK</a>
-    ◉ <a href="https://github.com/victorFernandezF/So_long-42">SO LONG</a>
-    ◉ <a href="https://github.com/victorFernandezF/Push_swap_42">PUSH SWAP</a>
-    ◉ <a href="https://github.com/victorFernandezF/Philosophers_42">PHILOSOPHERS</a>
-    ◉ <a href="https://github.com/victorFernandezF/Minishell">MINISHELL</a>
+    ◉ <a href="https://github.com/victorFernandezF/Libft_42">LIBFT</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/42_Malaga/tree/main/CURSUS/Common_Core/printf">FT_PRINTF</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/42_Malaga/tree/main/CURSUS/Common_Core/get_next_line">GET NEXT LINE</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/Minitalk_42">MINITALK</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/So_long-42">SO LONG</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/Push_swap_42">PUSH SWAP</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/Philosophers_42">PHILOSOPHERS</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/Minishell">MINISHELL</a><br>
 </details>
 
 <details>
   <summary>OTHER PROJECTS</summary>
   <br>
-    ◉ <a href="https://github.com/victorFernandezF/Morse-code-translator">MORSE CODE TRASLATOR</a>
-    ◉ <a href="https://github.com/victorFernandezF/Rock-paper-scissors">ROCK PAPER SCISSOR</a>
+    ◉ <a href="https://github.com/victorFernandezF/Morse-code-translator">MORSE CODE TRASLATOR</a><br>
+    ◉ <a href="https://github.com/victorFernandezF/Rock-paper-scissors">ROCK PAPER SCISSOR</a><br>
 </details>
