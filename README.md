@@ -13,7 +13,7 @@
 # 💫About Me:
 🔭 I’m currently working on my github profile : [VictorFernandezF](https://github.com/victorFernandezF/victorFernandezF)
   
-🌱 I’m currently learning : C, C++
+🌱 I’m currently learning : C, C++, javascript, typescript, React, Nextjs
 
 👨‍💻 You can see all my public repositories [here](https://github.com/victorFernandezF?tab=repositories)
 
@@ -26,6 +26,8 @@
 
 # 💻 Skills 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,js,vscode,git,github,bash)](https://skillicons.dev)
+
+# 💻📒 Learning [![learning](https://skillicons.dev/icons?i=js,ts,nextjs,react,nest)](https://skillicons.dev)
 
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorFernandezF&theme=dark&background=000000)](https://git.io/streak-stats)<br>
