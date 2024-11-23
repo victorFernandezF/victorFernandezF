@@ -25,9 +25,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorFernandezF/victorFernandezF)
 
 # 💻 Skills 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,php,mysql,js,vscode,git,github,md,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,php,mysql,js,vscode,git,github,md,bash,vim)](https://skillicons.dev)
 
-# 📚 Learning [![learning](https://skillicons.dev/icons?i=js,ts,nextjs,react,nest)](https://skillicons.dev)
+# 📚 Learning [![learning](https://skillicons.dev/icons?i=js,ts,nextjs,react)](https://skillicons.dev)
 
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorFernandezF&theme=dark&background=000000)](https://git.io/streak-stats)<br>
